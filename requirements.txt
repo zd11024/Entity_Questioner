@@ -1,0 +1,11 @@
+docx==0.2.4
+h5py==3.1.0
+matplotlib==3.5.1
+nltk==3.6.6
+numpy==1.19.5
+scikit_learn==1.0.1
+scipy==1.7.3
+six==1.16.0
+torch==1.6.0
+tqdm==4.62.2
+visdom==0.1.8.9
